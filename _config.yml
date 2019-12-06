@@ -113,7 +113,7 @@ author:
   location         : "Brisbane, QLD"
   email            : "zeinab.shahraki@gmail.com"
   GitHub           : "z1shahraki"
-  LinkedIn         : "zeinab-y-shahraki-b098234a/"
+  LinkedIn         : "zeinab-y-shahraki"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -293,12 +293,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-  values:
-      layout: single
-      author_profile: true
-      read_time: true
+      related: true 
