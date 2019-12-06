@@ -111,7 +111,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio."
   location         : "Brisbane, QLD"
-  email            :
+  email            : "zeinab.shahraki@gmail.com"
+  github           : "z1shahraki"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
