@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Zeinab Y. Shahraki"
-title_separator          : "-"
+title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zeinab Y. Shahraki"
 description              : "Portfolio"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Zeinab Y. Shahraki"
-  avatar           : "/images/loan-rej2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/zy10.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio."
   location         : "Brisbane, QLD"
   email            :
