@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /machine-learning/
-title: "Featured Projects"
+title: "Machine Learning Posts by Tags"
 author_profile: true
 header:
   image: "/images/inv-dec3.jpg"
