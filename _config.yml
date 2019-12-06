@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio."
   location         : "Brisbane, QLD"
-  email            : 
+  email            :
   github           : "z1shahraki"
   linkedin         : "zeinab-y-shahraki-b098234a"
   links:
@@ -294,3 +294,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
