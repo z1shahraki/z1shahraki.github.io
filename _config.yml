@@ -111,13 +111,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio."
   location         : "Brisbane, QLD"
-  email            : "zeinab.shahraki@gmail.com"
+  email            : 
   github           : "z1shahraki"
   linkedin         : "zeinab-y-shahraki-b098234a"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:zeinab.shahraki@gmail.com
+     # url: mailto:zeinab.shahraki@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
