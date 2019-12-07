@@ -2,7 +2,7 @@
 layout: archive
 permalink: /machine-learning/
 title: "Featured Projects me"
-author: true
+author_profile: true
 header:
   image: "/images/inv-dec1.jpg"
 ---
