@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /machine-learning/
 title: "Featured Projects"
 author_profile: true
