@@ -1,8 +1,8 @@
 ---
 layout: archive
-permalink: /machinelearning/
-title: "Featured Projects"
-#author_profile: true
+permalink: /machine-learning/
+title: "Featured Projects me"
+author_profile: true
 header:
   image: "/images/inv-dec1.jpg"
 ---
