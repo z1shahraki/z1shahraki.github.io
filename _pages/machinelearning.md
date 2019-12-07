@@ -21,7 +21,7 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/genetic2.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
-An end-to-end machine learning model pipeline, from data extracting, preprocessing to ultimate modeling.
+<font color="gray">An end-to-end machine learning model pipeline, from data extracting, preprocessing to ultimate modeling.</font> 
 
 [Python, EDA, Data Analysis, Machine Learning, Feature Engineering, NLP]
 
