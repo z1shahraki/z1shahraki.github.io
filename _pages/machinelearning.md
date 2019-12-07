@@ -4,5 +4,5 @@ permalink: /machine-learning/
 title: "Featured Projects"
 author_profile: true
 header:
-  image: "/images/inv-dec1.jpg"
+  image: "/images/car_price2.jpg"
 ---
