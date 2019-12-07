@@ -10,18 +10,18 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
 
-[Best Finance Analysis](https://github.com/z1shahraki/Best-Finance-Analysis).
+[<font color="black">Best Finance Analysis</font>](https://github.com/z1shahraki/Best-Finance-Analysis).
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/car_price2.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
 
-[Market Research](https://github.com/z1shahraki/Market-Research).
+[<font color="black">Market Research</font>](https://github.com/z1shahraki/Market-Research).
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/genetic2.jpg" alt="Automated Medical Pro" style="width:450px;height:300px;">
 
-[Automated Medical Project](https://github.com/z1shahraki/Automated-Medical-Project).
+[<font color="black">Automated Medical Project</font>](https://github.com/z1shahraki/Automated-Medical-Project).
 
 <font size = "4" color="gray">An end-to-end machine learning model pipeline, from data extracting, preprocessing to ultimate modeling.</font>
 
