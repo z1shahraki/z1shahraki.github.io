@@ -37,4 +37,3 @@ Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg" alt="Best Finance Decision">
 
 Here's another image using kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg)
