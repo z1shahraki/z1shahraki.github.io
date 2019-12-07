@@ -11,7 +11,7 @@ header:
 
 [Best Finance Analysis](https://github.com/z1shahraki/Best-Finance-Analysis).
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/car_price.jpg" alt="Best Finance Decision">
+<img src="{{ site.url }}{{ site.baseurl }}/images/car_price.jpg" alt="Best Finance Decision" style="width:450;height:300;">
 
 [Market Research](https://github.com/z1shahraki/Market-Research).
 
