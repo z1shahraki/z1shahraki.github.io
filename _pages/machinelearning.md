@@ -21,9 +21,9 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/genetic2.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
-<font size = "3" color="gray">An end-to-end machine learning model pipeline, from data extracting, preprocessing to ultimate modeling.</font>
+<font size = "4" color="gray">An end-to-end machine learning model pipeline, from data extracting, preprocessing to ultimate modeling.</font>
 
-<font size = "3" color="blue">[Python, EDA, Data Analysis, Machine Learning, Feature Engineering, NLP]</font>
+<font size = "4" color="blue">[Python, EDA, Data Analysis, Machine Learning, Feature Engineering, NLP]</font>
 
 [Automated Medical Project](https://github.com/z1shahraki/Automated-Medical-Project).
 
