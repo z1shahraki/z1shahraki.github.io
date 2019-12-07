@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/brisbane3.jpg"
+  image: "/images/artificial-intelligence.jpg"
 ---
 
 Passionate about learning and trying out new things. Well versed in data science
