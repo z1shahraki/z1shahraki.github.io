@@ -9,8 +9,12 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg" alt="Best Finance Decision">
 
-First [Best Finance Analysis](https://github.com/z1shahraki/Best-Finance-Analysis).
+[Best Finance Analysis](https://github.com/z1shahraki/Best-Finance-Analysis).
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/car_price.jpg" alt="Best Finance Decision">
 
-Second [Market Research](https://github.com/z1shahraki/Market-Research).
+[Market Research](https://github.com/z1shahraki/Market-Research).
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/genetic1.jpg" alt="Best Finance Decision">
+
+[Automated Medical Project](https://github.com/z1shahraki/Automated-Medical-Project).
