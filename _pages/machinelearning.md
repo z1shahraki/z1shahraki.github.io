@@ -4,7 +4,7 @@ permalink: /machine-learning/
 title: "Featured Projects"
 author_profile: true
 header:
-  image: "/images/brisbane1.jpg"
+  image: "/images/brisbane2.jpg"
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
