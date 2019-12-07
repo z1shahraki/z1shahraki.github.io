@@ -19,16 +19,20 @@ header:
 [Market Research](https://github.com/z1shahraki/Market-Research).
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/genetic2.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
-
-<font size = "4" color="gray">An end-to-end machine learning model pipeline, from data extracting, preprocessing to ultimate modeling.</font>
-
-<font size = "4" color="blue">[Python, EDA, Data Analysis, Machine Learning, Feature Engineering, NLP]</font>
+<img src="{{ site.url }}{{ site.baseurl }}/images/genetic2.jpg" alt="Automated Medical Pro" style="width:450px;height:300px;">
 
 [Automated Medical Project](https://github.com/z1shahraki/Automated-Medical-Project).
 
+<font size = "4" color="gray">An end-to-end machine learning model pipeline, from data extracting, preprocessing to ultimate modeling.</font>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/inv-dec3.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
+<font size = "4" color="blue">[Python, Data Analysis, Machine Learning, Feature Engineering, NLP, Classification]</font>
 
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/inv-dec3.jpg" alt="Investment Decision" style="width:450px;height:300px;">
 
 [Investment-Decision](https://github.com/z1shahraki/Investment-Decision).
+
+<font size = "4" color="gray">Using different techniques to preprocess data, conducted exploratory data analysis to recognize toxic comments.</font>
+
+<font size = "4" color="blue">[Python, Data Analysis, Machine Learning, Feature Engineering, NLP, Classification]</font>
