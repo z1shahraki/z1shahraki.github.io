@@ -9,16 +9,23 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
+
 [Best Finance Analysis](https://github.com/z1shahraki/Best-Finance-Analysis).
+
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/car_price.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
+
 [Market Research](https://github.com/z1shahraki/Market-Research).
+
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/genetic2.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
+
 [Automated Medical Project](https://github.com/z1shahraki/Automated-Medical-Project).
 
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/inv-dec3.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
+
 
 [Investment-Decision](https://github.com/z1shahraki/Investment-Decision).
