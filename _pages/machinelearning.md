@@ -16,12 +16,12 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/images/car_price2.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
 
-[<font color="black">Market Research</font>](https://github.com/z1shahraki/Market-Research).
+[<b><font color="black">Market Research</font></b>](https://github.com/z1shahraki/Market-Research).
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/genetic2.jpg" alt="Automated Medical Pro" style="width:450px;height:300px;">
 
-[<font color="black">Automated Medical Project</font>](https://github.com/z1shahraki/Automated-Medical-Project).
+[<b><font color="black">Automated Medical Project</font></b>](https://github.com/z1shahraki/Automated-Medical-Project).
 
 <font size = "4" color="gray">An end-to-end machine learning model pipeline, from data extracting, preprocessing to ultimate modeling.</font>
 
@@ -31,7 +31,7 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/inv-dec3.jpg" alt="Investment Decision" style="width:450px;height:300px;">
 
-[<font color="black">Investment-Decision</font>](https://github.com/z1shahraki/Investment-Decision).
+[<b><font color="black">Investment-Decision</font></b>](https://github.com/z1shahraki/Investment-Decision).
 
 <font size = "4" color="gray">Using different techniques to preprocess data, conducted exploratory data analysis to identify optimum investment decision.</font>
 
