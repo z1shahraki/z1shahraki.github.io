@@ -3,7 +3,6 @@ layout: archive
 permalink: /machinelearning/
 title: "Featured Projects"
 #author_profile: true
-author_profile: structured
 header:
   image: "/images/inv-dec1.jpg"
 ---
