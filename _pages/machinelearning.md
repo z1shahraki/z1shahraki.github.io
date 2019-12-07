@@ -7,17 +7,6 @@ header:
   image: "/images/car_price2.jpg"
 ---
 
-<div class="row">
-  <div class="column">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
-  [Best Finance Analysis](https://github.com/z1shahraki/Best-Finance-Analysis).
-  </div>
-  <div class="column">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/car_price.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
-  [Market Research](https://github.com/z1shahraki/Market-Research).
-  </div>
-</div>
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
 [Best Finance Analysis](https://github.com/z1shahraki/Best-Finance-Analysis).
