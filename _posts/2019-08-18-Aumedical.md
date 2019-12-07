@@ -1,5 +1,5 @@
 ---
-title: Featured Projects
+title: Automated Medical Project
 tags: [Python, Data Analysis, Machine Learning, Feature Engineering, NLP, Classification]
 header:
   image: "/images/brisbane2.jpg"
