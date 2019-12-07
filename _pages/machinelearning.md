@@ -31,7 +31,7 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/inv-dec3.jpg" alt="Investment Decision" style="width:450px;height:300px;">
 
-[Investment-Decision](https://github.com/z1shahraki/Investment-Decision).
+[<font size = "4" color="gray">Investment-Decision</font>](https://github.com/z1shahraki/Investment-Decision).
 
 <font size = "4" color="gray">Using different techniques to preprocess data, conducted exploratory data analysis to identify optimum investment decision.</font>
 
