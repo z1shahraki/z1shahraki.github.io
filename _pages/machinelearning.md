@@ -15,6 +15,6 @@ header:
 
 [Market Research](https://github.com/z1shahraki/Market-Research).
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/genetic1.jpg" alt="Best Finance Decision">
+<img src="{{ site.url }}{{ site.baseurl }}/images/genetic2.jpg" alt="Best Finance Decision">
 
 [Automated Medical Project](https://github.com/z1shahraki/Automated-Medical-Project).
