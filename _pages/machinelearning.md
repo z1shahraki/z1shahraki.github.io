@@ -33,6 +33,6 @@ header:
 
 [Investment-Decision](https://github.com/z1shahraki/Investment-Decision).
 
-<font size = "4" color="gray">Using different techniques to preprocess data, conducted exploratory data analysis to recognize toxic comments.</font>
+<font size = "4" color="gray">Using different techniques to preprocess data, conducted exploratory data analysis to identify optimum investment decision.</font>
 
-<font size = "4" color="blue">[Python, Data Analysis, Machine Learning, Feature Engineering, NLP, Classification]</font>
+<font size = "4" color="blue">[Data Preprocessing, Data Wrangling, Python, Data Analysis, ETL]</font>
