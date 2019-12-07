@@ -12,8 +12,12 @@ header:
 
 [<b><font color="black">Best Finance Analysis</font></b>](https://github.com/z1shahraki/Best-Finance-Analysis).
 
+<font size = "4" color="gray">Using different techniques to preprocess and analysis of a big dataset to drive optimum business decision.</font>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/car_price2.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
+<font size = "4" color="blue">[Python, Data Preprocessing, Data Wrangling, Data Visualization]</font>
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/car_price2.jpg" alt="Market Analysis" style="width:450px;height:300px;">
 
 [<b><font color="black">Market Research</font></b>](https://github.com/z1shahraki/Market-Research).
 
