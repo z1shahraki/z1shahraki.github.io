@@ -6,11 +6,11 @@ header:
 excerpt: "Data Analysis, EDA, Machine Learning"
 ---
 
-# H1
+# H1 heading 1
 
-## H2
+## H2 heading 2
 
-### H3
+### H3 heading 3
 
 Here's some basic text.
 
