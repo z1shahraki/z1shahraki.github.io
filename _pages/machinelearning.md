@@ -10,7 +10,7 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/images/loan_apr1.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
 
 
-[<font color="black">Best Finance Analysis</font>](https://github.com/z1shahraki/Best-Finance-Analysis).
+[<b><font color="black">Best Finance Analysis</font></b>](https://github.com/z1shahraki/Best-Finance-Analysis).
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/car_price2.jpg" alt="Best Finance Decision" style="width:450px;height:300px;">
