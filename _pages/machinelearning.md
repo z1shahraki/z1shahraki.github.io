@@ -6,7 +6,7 @@ author_profile: true
 header:
   image: "/images/brisbane2.jpg"
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/ecorenoadvisor.jpg" alt="EcoRenoAdvisor" style="width:450px;height:300px;">
+<img src="/images/ecorenoadvisor.jpg" alt="EcoRenoAdvisor" style="width:450px;height:300px;">
 
 [<b><font color="black">EcoRenoAdvisor</font></b>](https://github.com/z1shahraki/EcoRenoAdvisor).
 
