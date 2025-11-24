@@ -109,11 +109,11 @@ analytics:
 author:
   name             : "Zeinab Y. Shahraki"
   avatar           : "/images/zy30.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Portfolio."
+  bio              : "<a href='https://z1shahraki.github.io/'>Portfolio</a>."
   location         : "Brisbane, QLD"
   email            : "zeinab.shahraki@gmail.com"
   github           : "z1shahraki"
-  linkedin         : "zeinab-y-shahraki-b098234a"
+  linkedin         : "zeinab-shahraki-b098234a"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
